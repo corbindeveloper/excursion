@@ -1,0 +1,38 @@
+* {
+    font-family: Verdana;
+    color: white;
+    margin: 30px auto;
+}
+
+body {
+    background-color: black;
+    text-align: center;
+    align-content: center;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 42px;
+    font-weight: 300;
+}
+
+.comingSoon {
+    font-size: 16px;
+    color: aquamarine;
+    text-decoration: underline;
+    font-weight: bold; /* Bold looks better */
+}
+
+.pitch  {
+    font-size: 21px;
+    color: gray;
+}
+
+.copyright {
+    text-align: right;
+    padding: 5px;
+}
